@@ -27,3 +27,17 @@ CORS, Helmet — for security and cross-origin support
 
 🔐 Secure Routes — Built-in rate-limiting and request validation
 
+
+
+cycloneeye-backend/
+│
+├── config/           # DB, mail, storage configs
+├── controllers/      # Business logic
+├── models/           # Mongoose schemas
+├── routes/           # API endpoints
+├── utils/            # Helper functions (geocoding, alert logic, etc.)
+├── .env.example      # Sample environment config
+├── server.js         # App entry point
+└── package.json
+
+
