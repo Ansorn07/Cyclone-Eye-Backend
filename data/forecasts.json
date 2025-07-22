@@ -1,0 +1,58 @@
+{
+    "cyclone-001": {
+      "trends": [
+        { "day": "Today", "wind_speed": 140, "pressure": 980 },
+        { "day": "Day 2", "wind_speed": 145, "pressure": 975 },
+        { "day": "Day 3", "wind_speed": 150, "pressure": 970 },
+        { "day": "Day 4", "wind_speed": 148, "pressure": 972 },
+        { "day": "Day 5", "wind_speed": 142, "pressure": 978 }
+      ],
+      "details": [
+        { "time": "24h", "position": "16.5°N, 84.0°E", "intensity": "Category 3" },
+        { "time": "48h", "position": "17.2°N, 83.5°E", "intensity": "Category 4" },
+        { "time": "72h", "position": "18.0°N, 83.0°E", "intensity": "Category 4" }
+      ]
+    },
+    "cyclone-002": {
+      "trends": [
+        { "day": "Today", "wind_speed": 90, "pressure": 995 },
+        { "day": "Day 2", "wind_speed": 95, "pressure": 992 },
+        { "day": "Day 3", "wind_speed": 100, "pressure": 990 },
+        { "day": "Day 4", "wind_speed": 98, "pressure": 991 },
+        { "day": "Day 5", "wind_speed": 92, "pressure": 994 }
+      ],
+      "details": [
+        { "time": "24h", "position": "20.5°N, 71.0°E", "intensity": "Category 1" },
+        { "time": "48h", "position": "21.2°N, 71.2°E", "intensity": "Category 1" },
+        { "time": "72h", "position": "22.0°N, 71.5°E", "intensity": "Category 2" }
+      ]
+    },
+    "cyclone-003": {
+      "trends": [
+        { "day": "Today", "wind_speed": 220, "pressure": 940 },
+        { "day": "Day 2", "wind_speed": 225, "pressure": 935 },
+        { "day": "Day 3", "wind_speed": 230, "pressure": 930 },
+        { "day": "Day 4", "wind_speed": 228, "pressure": 932 },
+        { "day": "Day 5", "wind_speed": 222, "pressure": 938 }
+      ],
+      "details": [
+        { "time": "24h", "position": "15.5°N, 89.5°E", "intensity": "Category 5" },
+        { "time": "48h", "position": "16.8°N, 89.0°E", "intensity": "Category 5" },
+        { "time": "72h", "position": "18.0°N, 88.5°E", "intensity": "Category 4" }
+      ]
+    },
+    "cyclone-004": {
+      "trends": [
+        { "day": "Today", "wind_speed": 110, "pressure": 990 },
+        { "day": "Day 2", "wind_speed": 115, "pressure": 988 },
+        { "day": "Day 3", "wind_speed": 120, "pressure": 985 },
+        { "day": "Day 4", "wind_speed": 118, "pressure": 986 },
+        { "day": "Day 5", "wind_speed": 112, "pressure": 989 }
+      ],
+      "details": [
+          { "time": "24h", "position": "12.5°N, 87.0°E", "intensity": "Category 2" },
+          { "time": "48h", "position": "13.2°N, 86.5°E", "intensity": "Category 3" },
+          { "time": "72h", "position": "14.0°N, 86.0°E", "intensity": "Category 3" }
+      ]
+    }
+  }

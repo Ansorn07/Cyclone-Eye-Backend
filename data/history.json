@@ -1,0 +1,42 @@
+[
+    {
+      "id": "hist-001",
+      "name": "Cyclone Amphan",
+      "year": 2020,
+      "region": "Bay of Bengal",
+      "affected_areas": "West Bengal, Odisha, Bangladesh",
+      "damage_usd": "13 billion"
+    },
+    {
+      "id": "hist-002",
+      "name": "Cyclone Fani",
+      "year": 2019,
+      "region": "Bay of Bengal",
+      "affected_areas": "Odisha, Andhra Pradesh, West Bengal",
+      "damage_usd": "8.1 billion"
+    },
+    {
+      "id": "hist-003",
+      "name": "Cyclone Ockhi",
+      "year": 2017,
+      "region": "Arabian Sea",
+      "affected_areas": "Kerala, Tamil Nadu, Lakshadweep",
+      "damage_usd": "920 million"
+    },
+    {
+      "id": "hist-004",
+      "name": "Cyclone Hudhud",
+      "year": 2014,
+      "region": "Bay of Bengal",
+      "affected_areas": "Andhra Pradesh, Odisha, Uttar Pradesh",
+      "damage_usd": "3.4 billion"
+    },
+    {
+      "id": "hist-005",
+      "name": "Bhola Cyclone",
+      "year": 1970,
+      "region": "Bay of Bengal",
+      "affected_areas": "East Pakistan (now Bangladesh), West Bengal",
+      "damage_usd": "86.4 million (1970 USD)"
+    }
+  ]

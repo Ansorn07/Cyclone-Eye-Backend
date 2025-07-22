@@ -1,0 +1,62 @@
+[
+    {
+      "id": "cyclone-001",
+      "name": "Asani",
+      "category": 3,
+      "wind_speed": 140,
+      "location": "Coastal Andhra Pradesh",
+      "region": "Bay of Bengal",
+      "path": [
+        { "lat": 14.5, "lng": 85.2 },
+        { "lat": 15.1, "lng": 84.8 },
+        { "lat": 15.8, "lng": 84.5 }
+      ],
+      "severity": "high",
+      "imageUrl": "/cyclones/asani.jpg"
+    },
+    {
+      "id": "cyclone-002",
+      "name": "Biparjoy",
+      "category": 1,
+      "wind_speed": 90,
+      "location": "Saurashtra & Kutch, Gujarat",
+      "region": "Arabian Sea",
+      "path": [
+        { "lat": 18.2, "lng": 70.1 },
+        { "lat": 19.0, "lng": 70.5 },
+        { "lat": 19.9, "lng": 70.8 }
+      ],
+      "severity": "moderate",
+      "imageUrl": "/cyclones/biparjoy.jpg"
+    },
+    {
+      "id": "cyclone-003",
+      "name": "Mocha",
+      "category": 4,
+      "wind_speed": 220,
+      "location": "Sundarbans, West Bengal",
+      "region": "North Indian Ocean",
+      "path": [
+        { "lat": 12.1, "lng": 90.5 },
+        { "lat": 13.2, "lng": 90.2 },
+        { "lat": 14.3, "lng": 89.9 }
+      ],
+      "severity": "extreme",
+      "imageUrl": "/cyclones/mocha.jpg"
+    },
+    {
+      "id": "cyclone-004",
+      "name": "Sitrang",
+      "category": 2,
+      "wind_speed": 110,
+      "location": "Puri, Odisha",
+      "region": "Bay of Bengal",
+      "path": [
+        { "lat": 10.5, "lng": 88.2 },
+        { "lat": 11.1, "lng": 87.8 },
+        { "lat": 11.8, "lng": 87.5 }
+      ],
+      "severity": "moderate",
+      "imageUrl": "/cyclones/joy.jpg"
+    }
+  ]

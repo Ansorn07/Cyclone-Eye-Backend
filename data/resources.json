@@ -1,0 +1,67 @@
+{
+    "checklists": [
+        {
+            "id": "before",
+            "title": "Before the Storm",
+            "items": [
+                "Make an emergency kit with essentials like water, dry food, medicines, and a torch.",
+                "Secure your home. Cover windows and tie down anything that could fly away.",
+                "Listen to news from official sources like IMD and local radio.",
+                "Know your nearest safe shelter and the safest route to get there.",
+                "Charge your phone and power banks. Keep important documents in a waterproof bag."
+            ]
+        },
+        {
+            "id": "during",
+            "title": "During the Storm",
+            "items": [
+                "Stay inside a strong building. Keep away from windows and doors.",
+                "Listen to your radio for updates. Trust only official advice.",
+                "Switch off electricity and gas connections to avoid accidents.",
+                "If your house feels unsafe, evacuate immediately. Your life is most important."
+            ]
+        },
+        {
+            "id": "after",
+            "title": "After the Storm",
+            "items": [
+                "Wait for officials to say it's safe before you go outside.",
+                "Be very careful of fallen power lines, broken glass, and damaged buildings.",
+                "Check on your neighbours and offer help if you can. We are stronger together.",
+                "Drink only clean or boiled water."
+            ]
+        }
+    ],
+    "emergencyContacts": [
+        { "state": "National (NDMA)", "number": "1078" },
+        { "state": "Andhra Pradesh", "number": "1077 / 0866-2486006" },
+        { "state": "Odisha", "number": "1070 / 0674-2534177" },
+        { "state": "West Bengal", "number": "1070" },
+        { "state": "Tamil Nadu", "number": "1070" },
+        { "state": "Gujarat", "number": "1077" },
+        { "state": "Kerala", "number": "1077" }
+    ],
+    "officialAgencies": [
+      { "name": "India Meteorological Department (IMD)", "url": "https://mausam.imd.gov.in/"},
+      { "name": "National Disaster Management Authority (NDMA)", "url": "https://ndma.gov.in/"},
+      { "name": "National Oceanic and Atmospheric Administration (NOAA)", "url": "https://www.noaa.gov/"}
+    ],
+    "faqs": [
+        {
+            "question": "What is the difference between a cyclone, a hurricane, and a typhoon?",
+            "answer": "They are all the same weather phenomenon! We just use different names in different places. In the Atlantic and Northeast Pacific, it's a 'hurricane'. In the Northwest Pacific, it's a 'typhoon'. Here in the South Pacific and Indian Ocean, we call it a 'cyclone'."
+        },
+        {
+            "question": "How are cyclones named?",
+            "answer": "Countries in a particular region, including India, contribute to a shared list of names. The names are used one by one. This helps everyone easily identify and track the storms without confusion."
+        },
+        {
+            "question": "What do the different color alerts mean?",
+            "answer": "Alerts help us understand the danger level. Green means all is clear. Yellow means be aware and stay updated. Orange means be prepared for bad weather. Red means take action immediately, as dangerous weather is expected."
+        },
+        {
+            "question": "Is it safe to go to the beach to watch a cyclone?",
+            "answer": "Absolutely not. It is extremely dangerous. The waves can be huge and unpredictable, and winds can carry dangerous objects. Please stay far away from the coast during a cyclone warning."
+        }
+    ]
+}

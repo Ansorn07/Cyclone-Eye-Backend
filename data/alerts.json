@@ -1,0 +1,6 @@
+[
+    { "id": "alert-1", "region": "Odisha Coast", "severity": "red", "title": "Landfall Alert", "description": "Cyclone \"Sitrang\" is expected to make landfall near Puri in the next 12 hours. Evacuate coastal areas immediately.", "issued": "2 hours ago", "ticker_message": "Landfall expected near Puri in 12 hours. Evacuate now." },
+    { "id": "alert-2", "region": "Gujarat Coast", "severity": "orange", "title": "High Wind Warning", "description": "Cyclone \"Biparjoy\" is causing high-speed winds. Stay indoors and secure loose objects.", "issued": "5 hours ago", "ticker_message": "High winds near Saurashtra coast. Stay indoors." },
+    { "id": "alert-3", "region": "Andaman Islands", "severity": "yellow", "title": "Rough Sea Warning", "description": "A new depression is causing rough sea conditions. Fishermen are advised not to venture into the sea.", "issued": "1 day ago", "ticker_message": "Rough seas in Andaman region. Fishermen stay ashore." },
+    { "id": "alert-4", "region": "West Bengal", "severity": "red", "title": "Imminent Cyclone Threat", "description": "Cyclone \"Mocha\" has intensified rapidly. High alert for all coastal districts in West Bengal.", "issued": "30 minutes ago", "ticker_message": "Cyclone Mocha intensifies. High alert in West Bengal." }
+]
