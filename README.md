@@ -25,3 +25,5 @@ CORS, Helmet — for security and cross-origin support
 
 📬 Notification System — Email/SMS alert support (configurable)
 
+🔐 Secure Routes — Built-in rate-limiting and request validation
+
